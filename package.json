@@ -1,0 +1,19 @@
+{
+  "name": "nodejswithpostgresql",
+  "version": "1.0.0",
+  "description": "Test API for learning Purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kum9748ar/nodejswithpostgresql.git"
+  },
+  "author": "Kumar Kalyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kum9748ar/nodejswithpostgresql/issues"
+  },
+  "homepage": "https://github.com/kum9748ar/nodejswithpostgresql#readme"
+}
